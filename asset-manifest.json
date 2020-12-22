@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/https//shiny-one.github.io/facerecognitionbrain/static/css/main.2bb58185.chunk.css",
+    "main.js": "/https//shiny-one.github.io/facerecognitionbrain/static/js/main.d9e36fb4.chunk.js",
+    "main.js.map": "/https//shiny-one.github.io/facerecognitionbrain/static/js/main.d9e36fb4.chunk.js.map",
+    "runtime-main.js": "/https//shiny-one.github.io/facerecognitionbrain/static/js/runtime-main.3b991c3f.js",
+    "runtime-main.js.map": "/https//shiny-one.github.io/facerecognitionbrain/static/js/runtime-main.3b991c3f.js.map",
+    "static/css/2.31461e4f.chunk.css": "/https//shiny-one.github.io/facerecognitionbrain/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f78fb34c.chunk.js": "/https//shiny-one.github.io/facerecognitionbrain/static/js/2.f78fb34c.chunk.js",
+    "static/js/2.f78fb34c.chunk.js.map": "/https//shiny-one.github.io/facerecognitionbrain/static/js/2.f78fb34c.chunk.js.map",
+    "static/js/3.670206fe.chunk.js": "/https//shiny-one.github.io/facerecognitionbrain/static/js/3.670206fe.chunk.js",
+    "static/js/3.670206fe.chunk.js.map": "/https//shiny-one.github.io/facerecognitionbrain/static/js/3.670206fe.chunk.js.map",
+    "index.html": "/https//shiny-one.github.io/facerecognitionbrain/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/https//shiny-one.github.io/facerecognitionbrain/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.2bb58185.chunk.css.map": "/https//shiny-one.github.io/facerecognitionbrain/static/css/main.2bb58185.chunk.css.map",
+    "static/js/2.f78fb34c.chunk.js.LICENSE.txt": "/https//shiny-one.github.io/facerecognitionbrain/static/js/2.f78fb34c.chunk.js.LICENSE.txt",
+    "static/media/Brain.641ff254.png": "/https//shiny-one.github.io/facerecognitionbrain/static/media/Brain.641ff254.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b991c3f.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f78fb34c.chunk.js",
+    "static/css/main.2bb58185.chunk.css",
+    "static/js/main.d9e36fb4.chunk.js"
+  ]
+}
